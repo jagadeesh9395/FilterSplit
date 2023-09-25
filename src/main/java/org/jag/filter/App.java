@@ -1,3 +1,5 @@
+package org.jag.filter;
+
 import com.google.common.base.Splitter;
 
 import java.net.URLDecoder;
